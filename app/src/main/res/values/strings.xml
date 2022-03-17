@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BMR Calculator</string>
+    <string name="app_editor">Edit by Jaruwat Taengnuan 6204101309</string>
+    <string name="play_music">Play</string>
+    <string name="stop_music">Stop</string>
+    <string name="welcome">Welcome to BMR Calculator</string>
+    <string name="exit_app">Exit</string>
+    <string name="back">Back</string>
+    <string name="start_cal">Start Calculate</string>
+    <string name="gender">Genders</string>
+    <string name="gender_1">Men</string>
+    <string name="gender_2">Women</string>
+    <string name="ages">Ages</string>
+    <string name="ages_hint">Press your ages</string>
+    <string name="weight">Weight</string>
+    <string name="weight_hint">Press your body weight kg only</string>
+    <string name="height">Height</string>
+    <string name="height_hint">Press your body height cm only</string>
+    <string name="cal">Calculate</string>
+    <string name="result">Result BMR</string>
+    <string name="result_string">Your BMR = </string>
+    <string name="back2cal">Back to new calculate</string>
+</resources>
